@@ -1,2 +1,2 @@
 # Algoritmer-og-datastrukturer
-Kurs Innleveringer
+Innleveringer
